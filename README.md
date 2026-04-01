@@ -62,6 +62,7 @@ Real-world pet adoption interface. Responsive grid, structured layout, clean com
 
 `HTML5` `CSS3` `JavaScript`
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Pet-house/)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul)
 
 </td>
@@ -79,12 +80,12 @@ Multi-section site for a fictional architecture firm. Focused on visual hierarch
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Website
-Responsive restaurant landing page with semantic markup and structured content sections.
+### 🏏 BPL Dream 11 — Fantasy Team Builder
+Pick and buy BPL cricket players to build your dream team. Features a live coin balance that decreases with each purchase, simulating a real fantasy team budget system.
 
-`HTML5` `CSS3`
+`HTML5` `CSS3` `JavaScript`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Reasturent)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-bpl-dream11.netlify.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -96,6 +97,53 @@ Keyframe and transition experiments — Anime Cube & Neon Heart. Built to sharpe
 
 [![Anime Cube](https://img.shields.io/badge/Anime_Cube-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Anime-Cube)
 [![Neon Heart](https://img.shields.io/badge/Neon_Heart-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Neon-heart-animation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ TechWave — Podcast Landing Page
+Fully responsive landing page for a tech podcast. Features episode listings, host bio, and platform links with clean section-based layout.
+
+`HTML5` `CSS3`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Assignment-2/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-2)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐛 GitHub Issues Tracker
+Issue management app with login authentication, open/closed filtering, and search. Demonstrates DOM manipulation and local state management.
+
+`HTML5` `CSS3` `JavaScript`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Assignment-5/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-5)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 English Janala — Vocabulary Learning App
+Bengali-English language learning platform with interactive vocabulary lessons, lesson selector, and search functionality.
+
+`HTML5` `CSS3` `JavaScript`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/English-janala/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/English-janala)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ DigiTools Platform
+A digital tools platform built and deployed on Netlify. Showcases deployment workflow and project delivery beyond GitHub Pages.
+
+`HTML5` `CSS3` `JavaScript`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-assignment-6.netlify.app/)
 
 </td>
 </tr>
@@ -163,5 +211,5 @@ Keyframe and transition experiments — Anime Cube & Neon Heart. Built to sharpe
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=100&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/neya-mul">github.com/neya-mul</a> &nbsp;·&nbsp; Updated March 2026</sub>
+  <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/neya-mul">github.com/neya-mul</a> &nbsp;·&nbsp; Updated April 2026</sub>
 </div>
