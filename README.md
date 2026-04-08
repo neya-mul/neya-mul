@@ -35,14 +35,38 @@
 
 ---
 
+## 🧠 About Me
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=58C4DC&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;Building+React+%26+Next.js+Projects;Creating+Clean+UI+%26+UX;Open+to+Internships)](https://git.io/typing-svg)
+
+</div>
+
+My name is **Neyamul Islam**. I’m a passionate **Front-End Web Developer** currently learning and building real-world projects through the Programming Hero AI-Powered Web Development Bootcamp.
+
+I enjoy transforming ideas into **clean, responsive, and user-friendly interfaces** using HTML, CSS, JavaScript, and Tailwind CSS.
+
+- 🚀 Focused on clean and maintainable code  
+- 📱 Love responsive & mobile-first design  
+- 🔧 Practicing problem-solving every day  
+- 🎯 Goal: Become a professional front-end engineer  
+
+
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -155,11 +179,6 @@ A digital tools platform built and deployed on Netlify. Showcases deployment wor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neya-mul&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&icon_color=58C4DC&text_color=8b949e&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
 
@@ -179,6 +198,8 @@ A digital tools platform built and deployed on Netlify. Showcases deployment wor
 ---
 
 ## 🎓 Education
+
+
 
 | Qualification | Institution | Year | Grade |
 |---|---|---|---|
