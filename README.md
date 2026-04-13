@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=200&section=header&text=Neyamul%20Islam&fontSize=52&fontColor=58C4DC&fontAlignY=55&desc=Front-End%20Web%20Developer&descAlignY=78&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=350&section=header&text=Neyamul%20Islam&fontSize=52&fontColor=58C4DC&fontAlignY=55&desc=Front-End%20Web%20Developer&descAlignY=78&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=58C4DC&center=true&vCenter=true&width=480&lines=HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Responsive+Design+%C2%B7+Clean+Code+%C2%B7+Real+Projects;Currently%3A+Programming+Hero+Bootcamp;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=880&lines=HTML5+%C2%B7+CSS3+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS+%C2%B7+ReactJs+%C2%B7+NextJS;Responsive+Design+%C2%B7+Clean+Code+%C2%B7+Real+Projects;Currently%3A+Programming+Hero+Bootcamp;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=58C4DC&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;Building+React+%26+Next.js+Projects;Creating+Clean+UI+%26+UX;Open+to+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=800&lines=Front-End+Web+Developer;Building+React+%26+Next.js+Projects;Creating+Clean+UI+%26+UX;Open+to+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -207,7 +207,7 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=200&section=footer" width="100%"/>
 
 <div align="center">
   <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/neya-mul">github.com/neya-mul</a> &nbsp;·&nbsp; Updated April 2026</sub>
