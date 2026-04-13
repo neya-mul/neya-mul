@@ -56,6 +56,7 @@ I enjoy transforming ideas into **clean, responsive, and user-friendly interface
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -71,7 +72,14 @@ I enjoy transforming ideas into **clean, responsive, and user-friendly interface
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,figma,git,github,vscode&theme=dark&perline=10" />
+
 </div>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=80&section=header&animation=twinkling&reversal=true" width="100%"/> -->
+
 
 ---
 
@@ -81,77 +89,55 @@ I enjoy transforming ideas into **clean, responsive, and user-friendly interface
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 Pet House — Adoption Platform
-Real-world pet adoption interface. Responsive grid, structured layout, clean component separation.
+### 📱 App Store — React App Marketplace
+A clean and responsive app store interface built with React and Vite. Browse and explore apps with a polished UI and smooth navigation.
 
-`HTML5` `CSS3` `JavaScript`
+`React` `JavaScript` `Tailwind CSS` `Vite`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Pet-house/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ G3 Architects — Agency Landing Page
-Multi-section site for a fictional architecture firm. Focused on visual hierarchy and typography.
-
-`HTML5` `CSS3`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/G3-Architects)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 BPL Dream 11 — Fantasy Team Builder
-Pick and buy BPL cricket players to build your dream team. Features a live coin balance that decreases with each purchase, simulating a real fantasy team budget system.
-
-`HTML5` `CSS3` `JavaScript`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-bpl-dream11.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://app-store-blue-ten.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/App-Store)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 CSS Animation Lab
-Keyframe and transition experiments — Anime Cube & Neon Heart. Built to sharpen CSS animation instincts.
+### 📚 Book Vibe — Book Discovery App
+A React-based book discovery platform where users can explore, read about, and save their favourite books. Designed with a Figma prototype.
 
-`HTML5` `CSS3` `JavaScript`
+`React` `JavaScript` `Tailwind CSS` `Vite` `Figma`
 
-[![Anime Cube](https://img.shields.io/badge/Anime_Cube-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Anime-Cube)
-[![Neon Heart](https://img.shields.io/badge/Neon_Heart-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Neon-heart-animation)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://book-vibe-two-navy.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Book-Vibe)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ TechWave — Podcast Landing Page
-Fully responsive landing page for a tech podcast. Features episode listings, host bio, and platform links with clean section-based layout.
+### 🛠️ DigiTools — Digital Tools Platform
+A digital tools platform built and deployed on Netlify. Showcases deployment workflow and project delivery beyond GitHub Pages.
 
-`HTML5` `CSS3`
+`HTML5` `CSS3` `JavaScript`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Assignment-2/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-2)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-assignment-6.netlify.app/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-6)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐛 GitHub Issues Tracker
-Issue management app with login authentication, open/closed filtering, and search. Demonstrates DOM manipulation and local state management.
+### 🤖 AI Model Hub — AI Tools Directory
+A React app showcasing a curated hub of AI models and tools. Features a clean card-based layout with smooth browsing experience.
 
-`HTML5` `CSS3` `JavaScript`
+`React` `JavaScript` `Tailwind CSS` `Vite`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Assignment-5/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-5)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://ai-model-hub-one.vercel.app)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/AI-Model-Hub)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 English Janala — Vocabulary Learning App
+### 📖 English Janala — Vocabulary Learning App
 Bengali-English language learning platform with interactive vocabulary lessons, lesson selector, and search functionality.
 
 `HTML5` `CSS3` `JavaScript`
@@ -162,27 +148,19 @@ Bengali-English language learning platform with interactive vocabulary lessons, 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ DigiTools Platform
-A digital tools platform built and deployed on Netlify. Showcases deployment workflow and project delivery beyond GitHub Pages.
+### 🎙️ TechWave — Podcast Landing Page
+Fully responsive landing page for a tech podcast. Features episode listings, host bio, and platform links with a clean section-based layout.
 
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-assignment-6.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Assignment-2/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-2)
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
-
-</div>
+<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=80&section=footer&animation=twinkling" width="100%"/> -->
 
 ---
 
