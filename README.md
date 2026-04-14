@@ -175,6 +175,24 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 
 ---
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neya-mul&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/>
+
+</div>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=6&animation=twinkling" width="100%"/> -->
+---
+
 ## 🎓 Education
 
 
