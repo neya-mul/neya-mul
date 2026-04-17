@@ -188,7 +188,7 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 
 </div>
 <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=6&animation=twinkling" width="100%"/> -->
----
+
 
 ## 🎓 Education
 
