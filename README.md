@@ -94,7 +94,7 @@ A clean and responsive app store interface built with React and Vite. Browse and
 
 `React` `JavaScript` `Tailwind CSS` `Vite`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://app-store-blue-ten.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://app-store-inky.vercel.app/)
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/App-Store)
 
 </td>
