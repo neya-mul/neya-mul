@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=350&section=header&text=Neyamul%20Islam&fontSize=52&fontColor=58C4DC&fontAlignY=55&desc=Front-End%20Web%20Developer&descAlignY=78&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=880&lines=HTML5+%C2%B7+CSS3+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS+%C2%B7+ReactJs+%C2%B7+NextJS;Responsive+Design+%C2%B7+Clean+Code+%C2%B7+Real+Projects;Currently%3A+Programming+Hero+Bootcamp;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
-
+       
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=1100&lines=HTML5+%C2%B7+CSS3+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;ReactJs+%C2%B7+NextJS+%C2%B7+NodeJs+%C2%B7+ExpressJs;Responsive+Design+%C2%B7+Clean+Code+%C2%B7+Real+Projects;Currently%3A+SUPER+CHARGE+INTERVIEW+CLUB%28SCIC%29+By+Programming+Hero;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neya-mul)
