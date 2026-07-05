@@ -218,7 +218,7 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 | | |
 |---|---|
 | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/neya-mul](https://www.linkedin.com/in/neya-mul) |
-| ![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC) | [neya-mul.github.io/Portfolio-of-Neyamul](https://neya-mul.github.io/Portfolio-of-Neyamul/) |
+| ![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC) | [https://neyamulfolio.vercel.app/](https://neyamulfolio.vercel.app/) |
 | ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | neyamulislam946@gmail.com |
 | 📍 | Munshiganj, Dhaka, Bangladesh |
 
