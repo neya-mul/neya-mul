@@ -21,9 +21,9 @@
 ```
        _   _        neya-mul @ github
       | \ | |       ─────────────────────────────────────────
-      |  \| |       Role     : Front-End Web Developer
-      | |\  |       Stack    : HTML · CSS · JavaScript · Tailwind CSS
-      |_| \_|       Training : Programming Hero — AI-Powered Web Dev Bootcamp
+      |  \| |       Role     : MERN Stack Developer
+      | |\  |       Stack    : ReactJS · NextJS · Tailwind CSS · ExpressJS · MongoDB
+      |_| \_|       Training : Programming Hero — AI-Powered Web Dev Bootcamp Batch-13
                     Status   : ● Active — learning & shipping projects
  neya-mul           Mission  : Fast, accessible, and beautiful interfaces
                     Location : Munshiganj, Dhaka, Bangladesh 🇧🇩
