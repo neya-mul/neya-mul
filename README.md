@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=800&lines=Front-End+Web+Developer;Building+React+%26+Next.js+Projects;Creating+Clean+UI+%26+UX;Open+to+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Building+React+%26+Next.js+Projects;Creating+Clean+UI+%26+UX;Open+to+Internships)](https://git.io/typing-svg)
 
 </div>
 
