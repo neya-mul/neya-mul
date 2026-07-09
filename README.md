@@ -6,7 +6,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neya-mul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC)](https://neya-mul.github.io/Portfolio-of-Neyamul/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC)](https://neyamulfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neyamulislam946@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801874062550)
