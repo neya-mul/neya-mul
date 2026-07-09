@@ -42,7 +42,7 @@
 
 </div>
 
-My name is **Neyamul Islam**. I’m a passionate **Front-End Web Developer** currently learning and building real-world projects through the Programming Hero AI-Powered Web Development Bootcamp.
+My name is **Neyamul Islam**. I’m a passionate **MERN Stack Developer** currently learning and building real-world projects through the Programming Hero AI-Powered Web Development Bootcamp.
 
 I enjoy transforming ideas into **clean, responsive, and user-friendly interfaces** using HTML, CSS, JavaScript, and Tailwind CSS.
 
