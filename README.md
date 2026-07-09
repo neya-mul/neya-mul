@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neya-mul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC)](https://neya-mul.github.io/Portfolio-of-Neyamul/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neyamulislam946@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801874062550)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neya-mul&color=58C4DC&style=flat-square&label=Profile+Views)
@@ -220,6 +221,7 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/neya-mul](https://www.linkedin.com/in/neya-mul) |
 | ![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC) | [https://neyamulfolio.vercel.app/](https://neyamulfolio.vercel.app/) |
 | ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | neyamulislam946@gmail.com |
+| ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) | [+880 1874-062550](https://wa.me/8801874062550) |
 | 📍 | Munshiganj, Dhaka, Bangladesh |
 
 ---
