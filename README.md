@@ -8,8 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neya-mul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC)](https://neya-mul.github.io/Portfolio-of-Neyamul/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:neyamulislam946@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801874062550)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801874062550)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neya-mul&color=58C4DC&style=flat-square&label=Profile+Views)
 
@@ -28,6 +28,7 @@
                     Status   : ● Active — learning & shipping projects
  neya-mul           Mission  : Fast, accessible, and beautiful interfaces
                     Location : Munshiganj, Dhaka, Bangladesh 🇧🇩
+                    Contact  : neyamulislam946@gmail.com · +880 1874-062550
                     Open to  : Internships · Entry-Level Roles · Mentorship
 
                     ████ ████ ████ ████ ████ ████ ████ ████
@@ -92,72 +93,40 @@ I enjoy transforming ideas into **clean, responsive, and user-friendly interface
 <tr>
 <td width="50%" valign="top">
 
-### 📱 App Store — React App Marketplace
-A clean and responsive app store interface built with React and Vite. Browse and explore apps with a polished UI and smooth navigation.
+### 🐾 PetNest — Pet Adoption Platform
+A pet adoption platform helping loving homes find their new family member. Browse featured pets, add listings, and connect with verified adopters.
 
-`React` `JavaScript` `Tailwind CSS` `Vite`
+`Next.js` `Tailwind CSS` `MongoDB`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://app-store-inky.vercel.app/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/App-Store)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Book Vibe — Book Discovery App
-A React-based book discovery platform where users can explore, read about, and save their favourite books. Designed with a Figma prototype.
-
-`React` `JavaScript` `Tailwind CSS` `Vite` `Figma`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://book-vibe-two-navy.vercel.app)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Book-Vibe)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ DigiTools — Digital Tools Platform
-A digital tools platform built and deployed on Netlify. Showcases deployment workflow and project delivery beyond GitHub Pages.
-
-`HTML5` `CSS3` `JavaScript`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-assignment-6.netlify.app/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-6)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://assignment-9-ten-gules.vercel.app/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-9)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI Model Hub — AI Tools Directory
-A React app showcasing a curated hub of AI models and tools. Features a clean card-based layout with smooth browsing experience.
+### 📚 BookNest — Book Borrowing Platform
+An online book borrowing platform where users can browse, request, and manage borrowed books with secure authentication.
 
-`React` `JavaScript` `Tailwind CSS` `Vite`
+`Next.js` `Tailwind CSS` `BetterAuth` `MongoDB`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://ai-model-hub-one.vercel.app)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/AI-Model-Hub)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-assignment-8.vercel.app/home)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-8)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📖 English Janala — Vocabulary Learning App
-Bengali-English language learning platform with interactive vocabulary lessons, lesson selector, and search functionality.
+### 💪 Fitness Cafe — Fitness Lounge & Forum
+A full-stack fitness lounge platform with community forums, letting members share workouts, connect, and engage around fitness goals.
 
-`HTML5` `CSS3` `JavaScript`
+`Next.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/English-janala/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/English-janala)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://assignment-10-zeta-blush.vercel.app/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-10)
 
 </td>
 <td width="50%" valign="top">
-
-### 🎙️ TechWave — Podcast Landing Page
-Fully responsive landing page for a tech podcast. Features episode listings, host bio, and platform links with a clean section-based layout.
-
-`HTML5` `CSS3`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neya-mul.github.io/Assignment-2/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-2)
 
 </td>
 </tr>
@@ -187,7 +156,7 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
 &nbsp;
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/>
 
 </div>
 <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=6&animation=twinkling" width="100%"/> -->
@@ -221,7 +190,7 @@ Fully responsive landing page for a tech podcast. Features episode listings, hos
 | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/neya-mul](https://www.linkedin.com/in/neya-mul) |
 | ![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58C4DC) | [https://neyamulfolio.vercel.app/](https://neyamulfolio.vercel.app/) |
 | ![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) | neyamulislam946@gmail.com |
-| ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white) | [+880 1874-062550](https://wa.me/8801874062550) |
+| ![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white) | [+880 1874-062550](https://wa.me/8801874062550) |
 | 📍 | Munshiganj, Dhaka, Bangladesh |
 
 ---
