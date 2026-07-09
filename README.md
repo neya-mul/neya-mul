@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=350&section=header&text=Neyamul%20Islam&fontSize=52&fontColor=58C4DC&fontAlignY=55&desc=Front-End%20Web%20Developer&descAlignY=78&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=350&section=header&text=Neyamul%20Islam&fontSize=52&fontColor=58C4DC&fontAlignY=55&desc=MERN%20Stack%20Developer&descAlignY=78&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <div align="center">
        
