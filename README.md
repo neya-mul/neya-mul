@@ -168,7 +168,7 @@ A full-stack fitness lounge platform with community forums, letting members shar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neya-mul&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nymlCodes&bg_color=0d1117&color=58C4DC&line=58C4DC&point=ffffff&area_color=0a2540&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" width="100%"/>
 
 <br/>
 
