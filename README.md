@@ -172,7 +172,7 @@ A full-stack fitness lounge platform with community forums, letting members shar
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=neya-mul&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nymlCodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/>
 
